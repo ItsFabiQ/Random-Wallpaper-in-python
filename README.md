@@ -64,3 +64,6 @@ if __name__ == "__main__":
 - **set_wallpaper Function**: This function sets the downloaded image as the desktop wallpaper using the `ctypes` library.
 - **Main Execution**: The script downloads a random image and sets it as the wallpaper if the download is successful.
 
+## License
+
+This project is licensed under the MIT License.
